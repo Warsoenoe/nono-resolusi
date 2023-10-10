@@ -1,0 +1,4 @@
+RESOLUSI ke Depan
+- Lancar dalam HTML CSS JAVA SCRIPT
+- Data Base MYSQL
+- Membuat Website sederhana yang responsive
